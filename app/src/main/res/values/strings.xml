@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShoppingKartApp</string>
+    <string name="txt_about">This app can be used to keep track of items while you are shopping!!</string>
+    <string name="txt_help">To add an item use the floating button or the menu option.  To clear the list use the 'clear list' button on the menu bar.</string>
+    <string name="action_hide">Hide</string>
+    <string name="add_item">Add Item</string>
+    <string name="clear_kart">Clear Kart</string>
+    <string name="already_purchased">Already Purchased</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="menu">Menu</string>
+    <string name="data">Data</string>
+    <string name="edit">Edit</string>
+    <string name="view_item_details">View Item Details</string>
+    <string name="delete">Delete</string>
+    <string name="purchased">Purchased</string>
+    <string name="cancel">Cancel</string>
+    <string name="edited">Edited</string>
+    <string name="cancelled">Transaction Cancelled</string>
+    <string name="ignore_case" />
+    <string name="empty_error_msg">This field can not be blank</string>
+</resources>
